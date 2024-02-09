@@ -5,7 +5,7 @@ export default function Nav(){
         <>
         <nav>
             <ul>
-                <li><Link to="/">Home</Link></li>
+                <li><Link to="/accordion">Accordion App</Link></li>
                 <li><Link to="/">Home</Link></li>
             </ul>
         </nav>
